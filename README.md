@@ -1,172 +1,165 @@
-````markdown
-# 🍽️ Savorly
+<div align="center">
 
-### Smart Recipe Recommendation Platform
+# 🍽️ SAVORLY
 
-Savorly is a modern food and recipe discovery platform designed to help users explore delicious recipes and discover meals based on their preferences.
+### ✨ Discover • Cook • Savor ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Discover+Amazing+Recipes+%F0%9F%8D%B3;Explore+Delicious+Meals+%F0%9F%8D%95;Find+Your+Next+Favorite+Dish+%F0%9F%98%8B;Cook.+Taste.+Enjoy.+%F0%9F%91%A8%E2%80%8D%F0%9F%8D%B3" />
+
+<br>
+
+<a href="https://savorly-eosin.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-SAVORLY-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Responsive-Yes-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/UI-Modern-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Project-Food%20Discovery-orange?style=flat-square" />
+
+</div>
+
+---
+
+## 🍴 About Savorly
+
+**Savorly** is a modern and visually engaging recipe discovery platform built to make finding delicious food simple, enjoyable, and interactive.
+
+Explore different food categories, discover delicious meals, and find inspiration for your next dish through a clean and responsive user experience.
+
+> 🍽️ **Your next delicious meal is just a click away.**
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](https://savorly-eosin.vercel.app/)
+<div align="center">
+
+<a href="https://savorly-eosin.vercel.app/">
+<img src="https://img.shields.io/badge/%F0%9F%8D%BD%EF%B8%8F%20OPEN%20SAVORLY-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br><br>
+
+**🔗 https://savorly-eosin.vercel.app/**
+
+</div>
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-- 🍽️ Discover delicious recipes
-- 🥗 Explore different food categories
-- 🍹 Appetizer recommendations
-- 🍛 Main course recommendations
-- 🍰 Dessert recommendations
-- 🤖 Personalized recipe recommendations
-- 🔍 Easy recipe discovery
-- 📱 Responsive and modern UI
-- 🎨 Clean food-focused design
-- ⚡ Fast and smooth user experience
+<table>
+<tr>
+<td width="50%">
+
+### 🍳 Recipe Discovery
+
+Explore delicious recipes and discover new dishes for every occasion.
+
+</td>
+
+<td width="50%">
+
+### 🥗 Food Categories
+
+Browse recipes through organized and easy-to-explore food categories.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🥪 Appetizers
+
+Discover tasty starters and light dishes to begin your meal.
+
+</td>
+
+<td>
+
+### 🍛 Main Courses
+
+Explore satisfying and flavorful main-course meals.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🍰 Desserts
+
+Find delicious desserts and sweet recipes for every craving.
+
+</td>
+
+<td>
+
+### 🤖 Recommendations
+
+Discover recipe suggestions and explore new food ideas.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📱 Responsive Design
+
+Enjoy a smooth experience across desktop, tablet, and mobile devices.
+
+</td>
+
+<td>
+
+### ⚡ Smooth Experience
+
+Fast navigation with a clean, modern, and intuitive interface.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏠 Main Sections
+# 🎨 User Experience
 
-### 🥗 Appetizer
-Discover light and flavorful dishes designed to start your meal perfectly.
+<div align="center">
 
-### 🍛 Main Course
-Explore satisfying and delicious main dishes from different cuisines.
+### 🍽️ Modern Food Discovery
 
-### 🍰 Dessert
-Finish your meal with sweet and enjoyable dessert options.
+Savorly combines beautiful food presentation with a simple and intuitive interface.
 
-### 🤖 Recipe Recommendation
-Get recipe suggestions designed to help you discover your next favorite meal.
+<br>
 
----
+**Discover → Explore → Choose → Cook → Savor**
 
-## 🛠️ Tech Stack
-
-### Frontend
-- React
-- JavaScript / TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Development
-- Vite
-- Git
-- GitHub
-
-### Deployment
-- Vercel
+</div>
 
 ---
 
-## 🎨 UI Highlights
-
-- Modern landing page
-- Food-focused visual design
-- Responsive layouts
-- Smooth navigation
-- Attractive recipe sections
-- Clean typography
-- Mobile-friendly interface
-
----
-
-## 📂 Project Structure
+# 🧩 Main Sections
 
 ```text
-savorly/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── data/
-│   ├── styles/
-│   └── App.jsx
-│
-├── package.json
-├── vite.config.js
-└── README.md
-````
-
----
-
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_REPOSITORY
-cd savorly
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Start the development server
-
-```bash
-npm run dev
-```
-
-The application will start in development mode.
-
----
-
-## 🌟 Project Highlights
-
-* Modern recipe discovery experience
-* Personalized food recommendations
-* Responsive web design
-* Clean and intuitive interface
-* Fast frontend performance
-* Deployed and accessible online
-
----
-
-## 🚀 Future Enhancements
-
-* 🔐 User authentication
-* ❤️ Save favorite recipes
-* 📝 Create and publish recipes
-* 🤖 AI-powered recipe generation
-* 🛒 Smart grocery list
-* 📅 Weekly meal planner
-* 🎙️ Voice-based recipe search
-* 🌐 Multi-language support
-* ⭐ Recipe ratings and reviews
-
----
-
-## 👨‍💻 Developer
-
-### Mugunthan DK
-
-**Full-Stack Developer | AI/ML Enthusiast**
-
-Interested in building modern web applications using
-**Full-Stack Development, AI, and modern web technologies.**
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
-
-### 🍽️ Savorly
-
-**Discover • Cook • Savor**
-
-```
-```
+                         🍽️ SAVORLY
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+              ▼               ▼               ▼
+        🥗 Appetizers    🍛 Main Course    🍰 Desserts
+              │               │               │
+              └───────────────┼───────────────┘
+                              │
+                              ▼
+                       🤖 Recommendations
+                              │
+                              ▼
+                       ❤️ Discover Food
+                              │
+                              ▼
+                         🍽️ Enjoy
